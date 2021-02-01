@@ -1,0 +1,4 @@
+1. Three websites I enjoy visiting are Amazon,Levis, and Zara. 
+2. The IP address is the idividual address given to any computer in order to identify it. The DNS address is what provides a way to matchup a website you might be searching to your IP adress. That is how you look stuff up on your computer. 
+3. A cookie is something that is used to track data on your computer (like stuff you might search) in order to customize adds you see and things of that nature. 
+4. The three essential parts of a URL are the protocol, domain name, and path.  
