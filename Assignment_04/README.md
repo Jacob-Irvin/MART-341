@@ -1,0 +1,3 @@
+A browser is a software used to access the internet from a personal device. People use different languages of code to explain what they want the browser to display, and it interprets that code as text, images, ect.. so people can view it. The browser I probably use the most is Microsoft Edge, becuase that is what I use for work. However, I personally prefer Google Chrome.
+Markup text is what is used to give the web browsers people look at structure, or as the readings described it, the browsers architecture. It tells the browser where to put text, images, ect. HTML is a commonly used one in development. 
+./images/My First Webpage SS
