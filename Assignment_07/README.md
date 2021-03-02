@@ -1,0 +1,5 @@
+1. The most common form that I come across in my day to day is probably address information when shopping online, whether it be a place like Amazon or some other site theres always a form for your address. The purpose of this form is to make sure your package gets sent to the correct place. It also allows you to save that info and it will autofill the next time and you wont have to fill in that form every single time.
+
+2. Text allows the user to input any data that they want, there are no restrictions minus maybe maximum number of characters allowed. Selection allows the user to select from limited options that were determined beforehand (true or false for example). Lastly, button input is an interactive element that allows a graphic interest while serving some sort of functionality (submitting a form for example).
+
+3. I didn't have any major challenges that I couldn't eventually work out. However, I am still a bit confused on what purpose web attributes like method or action serve, and I think it is because they didnt necessarily have to do anything in this assignment so they're still a bit foggy. 
