@@ -1,0 +1,3 @@
+1. For the most part, what we have covered in HTML was just review, but was also a needed refresher. Although I had already gone over most of the material beforhand I feel alot more confident and just have a better understanding of HTML overall.
+2. I am mostly excited to see how we will be able to style the web pages we have made. I love the idea of expanding the limited styling options we have in HTML and I am looking forward to all the possibilities.
+3. The biggest challenge for me was getting the video embedded using the "iframe" tags, luckily I was finally able to work through it without too much stress. 
