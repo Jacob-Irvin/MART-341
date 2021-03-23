@@ -1,0 +1,28 @@
+div{
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;     
+    border:10px solid; black
+    opacity: 0.5; 
+}
+
+.main-container{
+    background-color: turquoise; 
+    width: 600px;
+    padding: 10px; 
+    margin: auto;
+    border: 5px solid black;
+ }
+
+img{width: 500; height: 500px;}
+
+.secondary-container{
+    background:red;
+    width: 600px;
+    padding: 10px;
+    margin:auto;
+}
+
+h1{text-align: center; color:turquoise;}
+
+/* this set the background image to a black and white checkerboard */ 
+body{background-image: url('https://cdn.wallpapersafari.com/11/10/lOFCTk.png');}
