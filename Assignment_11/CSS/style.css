@@ -1,0 +1,47 @@
+div{
+    text-align:left;
+}
+
+.secondary-container{
+    background-color: white; 
+    border: 5px solid black;
+    width: 600px;
+    padding: 10px;
+    margin:auto; 
+    font-family: 'Playfair Display', serif;
+    font-size: 12pt;
+    line-height: normal;
+}
+
+.main-container{
+    background-color: white; 
+    border: 5px solid black;
+    width: 600px;
+    padding: 10px;
+    margin:auto; 
+    font-family: 'Playfair Display', serif;
+    font-size: 12pt;
+    line-height: normal;
+}
+
+.main-container::first-letter{
+    color: palevioletred;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Dela Gothic One', cursive;
+}
+
+body{
+    background-color:palevioletred;
+}
+
+p{text-indent: 20px;}
+
+a:hover{
+    color:red
+}
