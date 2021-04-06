@@ -1,0 +1,2 @@
+1. The differences between padding, margin, and border are: padding is the space given between the contents of the element and the element itself, margin is the space between an element and another element, and lastly a border is a visual edge you can put onan element to better define it.
+2. My biggest challenge was trying to figure out the hover function to make an element look like a button,I was never quite able to figure it out. 
