@@ -1,0 +1,25 @@
+div{text-align: center;}
+
+.main-container{
+    background-color:white;
+    height:100px;
+    width:90%;
+    margin:auto;
+    border: 5px solid black;
+    padding:3px;
+}
+
+.nav-item {
+    display: inline-block;
+    margin:auto;
+    padding: 15px;
+    width: 345px; 
+    font-size: 20pt;
+    color:black;
+    background-color:grey;
+    line-height: 20px;
+}
+
+.dsiplay-inline-block{
+    display:inline-block
+}
