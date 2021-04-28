@@ -1,0 +1,39 @@
+div{text-align: center;}
+
+.main-container{
+    background-color: grey;
+    height:fit-content;
+    width:50%;
+    margin:auto;
+    margin-top: 100px;
+    border: 5px solid black;
+    padding:3px;
+}
+
+img{
+    border: 5px solid lightgrey;
+    width: 400px; 
+}
+
+.secondary-container{
+    border: 5px solid black;
+    height:fit-content;
+    width: 50%;
+    padding: 3px;
+    margin:auto
+
+}
+
+.header{
+    text-align: center;
+    color: orangered;
+    font-size: 40pt;
+    background-color: lightgrey;
+    width:100%;
+    height: fit-content;
+}
+
+h2{
+    text-align: center;
+    font-size: large;
+}
