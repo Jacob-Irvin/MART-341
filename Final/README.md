@@ -1,0 +1,3 @@
+1. Yes, I had not had a lot of experience with things like Github or repositories before this class but I am a big fan of them now. 
+2. I learned a lot about web design throughout this course. I had little experience with CSS and even less with Javascipt before this class but I really enjoyed being able to make my pages more aesteically pleasing and playing around with different styles, colors, fonts, etc...
+3. I didn't have too many issues with this project that weren't easy fixes. As far as the class as a whole I had my fair share of struggles and late nights but I really enjoyed it and I am proud of my new basic knowlege of web design. 
